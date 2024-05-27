@@ -2,5 +2,7 @@
 {
     public class Profession
     {
+        internal int Id;
+        internal string Name;
     }
 }
